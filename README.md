@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+  
+    ![image](https://github.com/user-attachments/assets/ae8fc0dd-192c-4407-b8df-f81ac6702716)  ![image](https://github.com/user-attachments/assets/3b3fffef-6201-4a87-8ad2-cd9f6cd5ec6c) ![image](https://github.com/user-attachments/assets/31d38a72-8478-48c1-9faa-c9a414ce6991)
+
+
+
+- 🌱 I’m currently learning ...
+
+  ![image](https://github.com/user-attachments/assets/2053935e-3f7e-4b4b-967d-984d000d7122)
+
+
+
 <!--
 **kavinsau/kavinsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
